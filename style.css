@@ -25,6 +25,7 @@ p#leo{
   font-size: 24px;
   border:2px solid Violet;
   text-shadow: 2px 2px red; 
+  box-shadow: 3px 10px grey;
   
 }
 .boys{
