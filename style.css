@@ -1,0 +1,35 @@
+body {
+    background-color: #35545f;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+#sahana{
+  color: white;
+  
+}
+.girls{
+  background-color: pink;
+}
+
+p#leo{
+  color: yellow !important;
+  text-align: center;
+  font-size: 24px;
+  border:2px solid Violet;
+  text-shadow: 2px 2px red; 
+  
+}
+.boys{
+  color: red;
+  background-color: blue; 
+  text-align: right;
+}
+a
